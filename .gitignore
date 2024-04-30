@@ -1,4 +1,5 @@
 *.iml
 *.idea
-out
+out/
+SEM-2/Assignment-2/Assignment-2.iml
 
