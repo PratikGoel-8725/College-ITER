@@ -14,6 +14,5 @@ public class Q1 {
         for (int i = a; i <= b; i = i+c) {
             System.out.print(i+" ");
         }
-
     }
 }
